@@ -7,7 +7,10 @@ public class Homework2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Boxer boxer = new Boxer();
+		boxer.name = "Ivan";
+		boxer.height = 180;
+		boxer.weight = 96;
 	}
 	
 	
